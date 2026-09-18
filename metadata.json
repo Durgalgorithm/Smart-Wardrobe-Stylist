@@ -1,0 +1,9 @@
+{
+  "name": "Smart Wardrobe & AI Stylist",
+  "description": "An interactive wardrobe management app featuring a customizable avatar and a real-time Gemini-powered AI fashion assistant for outfit planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
